@@ -1,0 +1,16 @@
+print("------ Enter Your Details ------")
+
+name = input("Enter Name: ")
+age = int(input("Enter Age: "))
+city = input("Enter City: ")
+dob = input("Enter Date of Birth (DD-MM-YYYY): ")
+college = input("Enter College Name: ")
+blood_group = input("Enter Blood Group: ")
+
+print("\n------ My ID Card ------")
+print("Name :", name)
+print("Age :", age)
+print("City :", city)
+print("DOB :", dob)
+print("College :", college)
+print("Blood Group :", blood_group)
